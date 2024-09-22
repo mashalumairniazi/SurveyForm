@@ -1,4 +1,4 @@
-# Project 5: Certification Project - Survey Form - Responsive Web Design (FCC)
+# Certification Project - Survey Form - Responsive Web Design (FCC)
 
 ##### This repository contains the completed code for Project 5 *(Certification Project)* in the FreeCodeCamp "Responsive Web Design" course.
 
