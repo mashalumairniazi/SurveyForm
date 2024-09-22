@@ -8,18 +8,16 @@ h1{
   padding-bottom:0;
   color:#246B26;
 }
-
 body{
   background-color:#E4E4E4;
 }
-
-
 .header{
   font-family:tahoma;
   font-size:20;
   color:black;
   margin-top:2rem;
 }
+
 
 .subline{
   font-family:tahoma;
@@ -36,6 +34,7 @@ body{
   margin:10px;
   top-margin:30px;
   }
+
 
 label{
   color:#643914;
@@ -54,11 +53,13 @@ input{
   font-family:caption;
 }
 
+
 .radio{
   color:black;
   font-family:tahoma;
   font-size:14;
 }
+
 
 textarea{
   margin:5px;
