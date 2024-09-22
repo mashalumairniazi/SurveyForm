@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang='en'>
+<meta charset='utf-8'>
+
+<title>Survey - Minecraft</title>
+<link rel='stylesheet' href='styles.css'>
+
+<body>
+  <h1 id='title' class='title'>Survey</h1>
+  <p id='description' class='subline'>How much do you know about Minecraft?</p>
+  
+  <form id='survey-form' class='form'>
+    <fieldset>
+    <legend class='header'>Introduction</legend>
+
+    <label for='name-label' id='name-label'>Enter your name:<input placeholder='Minecrafter 101' inline required id='name' type='text'></label>
+    <label for='email' id='email-label'>Enter your email:<input placeholder='mashal@gmail.com' inline required pattern='[a-z0-9@.]'  id='email' type='email'></label>
+      <label for='number' id='number-label'>Enter your age:<input placeholder='33' id='number' type='number' min='12' max='120'></label>
+    </fieldset>
+
+    <fieldset>
+      <legend class='header'>What is your faveriote mob?</legend>
+      <section>
+      <label>Hostile:
+       <select id='dropdown'>
+        <option value=''>Creeper</option>
+        <option value='1'>Zombie</option>
+        <option value='2'>Skeleton</option>
+        <option value='3'>Pillager</option>
+        <option value='4'>Spider</option>
+      </select></label> 
+      </section>
+  </fieldset>
+
+  <fieldset>
+    <legend class='header'>What is your faveriote block?</legend>
+    <section>
+    <label class='radio'><input type='radio' name='block' value='1'>Wood</label>
+    <label class='radio'><input type='radio' name='block' value='2'>Glass</label>
+    </section>
+    </fieldset>
+
+    <fieldset>
+      <legend class='header'>Finale~</legend>
+      <section>
+      <label class='radio'><input type='checkbox' value='1'>Yes</label>
+      <label class='radio'><input type='checkbox' value='0'>No</label>
+      </section>
+
+      <section>
+    <label>Enter random details because why not:</label>
+    <textarea id='details' placeholder='Writing this code at 3am...'></textarea>
+      </section>
+
+
+    <fieldset>
+      <legend class='header'>You are now free</legend>
+      <input id='submit' type='submit'>
+
+
+
+
+
+
