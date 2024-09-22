@@ -43,3 +43,5 @@ The **Survey Form - Minecraft** project collects user information through a form
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/survey-form-minecraft.git
+2. Ensure that both the index.html and styles.css files are in the same directory.
+3. Open the index.html file in a web browser to view the project.
