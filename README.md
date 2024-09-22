@@ -45,3 +45,19 @@ The **Survey Form - Minecraft** project collects user information through a form
    git clone https://github.com/your-username/survey-form-minecraft.git
 2. Ensure that both the index.html and styles.css files are in the same directory.
 3. Open the index.html file in a web browser to view the project.
+
+## Learning Objectives
+
+This project helps learners:
+- Build a functional HTML form that collects user input through various form elements.
+- Implement built-in HTML5 validation for email and number fields.
+- Style a form using CSS to create a visually appealing and accessible user interface.
+- Use HTML attributes like `required`, `placeholder`, and `pattern` to enhance user experience.
+
+## FreeCodeCamp Curriculum
+
+This project is a part of the [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) on FreeCodeCamp.
+
+## License
+
+This project is licensed under the MIT License.
