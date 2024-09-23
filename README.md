@@ -1,6 +1,6 @@
 # Certification Project 1 - Survey Form - Responsive Web Design (FCC)
 
-##### This repository contains the completed code for Project 5 *(Certification Project)* in the FreeCodeCamp "Responsive Web Design" course.
+##### This repository contains the completed code for Project 1.5 *(Certification Project)* in the FreeCodeCamp "Responsive Web Design" course.
 
 The project is a survey form that follows the provided instructions and meets the outlined user stories, with a personalized theme based on Minecraft.
 
